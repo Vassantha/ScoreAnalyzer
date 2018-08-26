@@ -1,7 +1,8 @@
 # ScoreAnalyzer
-Analyze piano sheet music to find technical difficulty.
-Online demo : http://veroniquesebastien.eu/tests/ScoreAnalyser/readScoreTemp.php
-XML sheets are from https://musescore.com/
+Analyze piano sheet music to infer technical difficulty.<br>
+Online demo: http://veroniquesebastien.eu/tests/ScoreAnalyser/readScoreTemp.php <br>
+ISMIR 2012 research paper: http://ismir2012.ismir.net/event/papers/571_ISMIR_2012.pdf <br>
+XML piano scores are from https://musescore.com/
 
 # Requirements
 - PHP
